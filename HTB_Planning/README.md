@@ -1,5 +1,4 @@
-<img width="856" height="372" alt="image" src="https://github.com/user-attachments/assets/d368d1ab-55bb-4f79-afcc-7a9bbfac8df2" />
-
+![alt text](Images/Planning.jpg)
 
 
 # Scope
