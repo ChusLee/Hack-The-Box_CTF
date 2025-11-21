@@ -1,3 +1,4 @@
+![alt text](Planning.png)
 
 ![alt text](Images/Planning.png)
 
