@@ -11,3 +11,10 @@ Finally, a custom Crontab UI management application running with root privileges
 # Index
 - [Enumeration](Enumeration.md)
 - [Fuzzing](Fuzzing.md)
+- [Foothold](Foothold.md)
+- [Exploitation](Exploitation.md)
+- [Priv Escalation](Priv_Escalation.md)
+- [Software Versions](Software_Versions.md)
+
+
+Go back to [Hack-The_Box_CTF](Hackt-The-Box_CTF)

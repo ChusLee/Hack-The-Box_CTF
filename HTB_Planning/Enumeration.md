@@ -1,6 +1,6 @@
 First of all we check that we have connection with IP target.
 
-![alt text](HTB_Planning/Images/Ping_Planning.png)
+![alt text](Images/Ping_Planning.png)
 
 This TTL value on HTB indicates that is a Linux machine.
 
@@ -22,5 +22,11 @@ To access the website, we must add the domain name planning.htb to our /etc/host
 connection with the IP address.
 
 ![alt text](Images/Browser.png)
+
+Now we can navigate to the website in our browser
+
+![alt text](Images/Browser2.png)
+
+Enumerating this site does not reveal anything of interest, so we will try fuzzing for other possible subdomains.
 
 [Back](README.md)
