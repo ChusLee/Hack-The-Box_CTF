@@ -1,4 +1,5 @@
-![alt text](Images/Planning.jpg)
+
+![alt text](Images/Planning.png)
 
 
 # Scope
