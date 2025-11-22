@@ -1,12 +1,12 @@
-![alt text](Images/Knife.png)
+![alt text](Images/Blue.png)
+
 
 # Scope
 
-knife is an easy difficulty Linux machine that features an application which is running on a backdoored version of PHP.
+Blue, while possibly the most simple machine on Hack The Box, demonstrates the severity of the EternalBlue exploit, which has been used in multiple large-scale ransomware and crypto-mining attacks since it was leaked publicly.
 
 # Index
 - [Enumeration](Enumeration.md)
-- [Fuzzing](Fuzzing.md)
 - [Foothold](Foothold.md)
 - [Exploitation](Exploitation.md)
 - [Priv Escalation](Priv_Escalation.md)
