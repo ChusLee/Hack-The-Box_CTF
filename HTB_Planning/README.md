@@ -1,7 +1,4 @@
 ![alt text](Images/Planning.png)
-git rebase --skip
-
-![alt text](Images/Planning.png)
 
 
 # Scope
