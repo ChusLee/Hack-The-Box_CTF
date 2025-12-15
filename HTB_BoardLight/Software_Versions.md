@@ -1,10 +1,14 @@
 ### Software Versions
 - Ubuntu
 
-- PHP 8.1.0-dev
+- Apache 2.4.41
+
+- Dolibarr 17.0.0
 
 
 ### Potential Exploits
-- PHP 8.1.0 Remote Code Execution (RCE).
+- CVE-2023-30253
+
+- CVE-2022-37706
 
 [Back](README.md)

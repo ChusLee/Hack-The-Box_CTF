@@ -1,9 +1,9 @@
 ### Software Versions
-Windows Server
+- Windows Server
 
 
 ### Potential Exploits
-Microsoft Windows Server - Service Relative Path Stack Corruption (MS08-067).
+- Microsoft Windows Server - Service Relative Path Stack Corruption (MS08-067).
 
 
 [Back](README.md)
