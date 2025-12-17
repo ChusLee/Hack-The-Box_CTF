@@ -1,0 +1,15 @@
+![alt text](Images/SteamCloud.png)
+
+
+# Scope
+
+SteamCloud is an easy difficulty machine. The port scan reveals that it has a bunch of Kubernetes specific ports open. We cannot enumerate the Kubernetes API because it requires authentication. Now, as Kubelet allows anonymous access, we can extract a list of all the pods from the K8s cluster by enumerating the Kubelet service. Furthermore, we can get into one of the pods and obtain the keys necessary to authenticate into the Kubernetes API. We can now create and spawn a malicious pod and then use Kubectl to run commands within the pod to read the root flag.
+
+# Index
+- [Enumeration](Enumeration.md)
+- [Foothold](Foothold.md)
+- [Priv Escalation](Priv_Escalation.md)
+- [Software Versions](Software_Versions.md)
+
+
+Go back to [Hack-The-Box_CTF](https://github.com/ChusLee/Hack-The-Box_CTF)
