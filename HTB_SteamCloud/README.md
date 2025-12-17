@@ -9,7 +9,6 @@ SteamCloud is an easy difficulty machine. The port scan reveals that it has a bu
 - [Enumeration](Enumeration.md)
 - [Foothold](Foothold.md)
 - [Priv Escalation](Priv_Escalation.md)
-- [Software Versions](Software_Versions.md)
 
 
 Go back to [Hack-The-Box_CTF](https://github.com/ChusLee/Hack-The-Box_CTF)
