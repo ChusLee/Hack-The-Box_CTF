@@ -13,4 +13,4 @@ Only one publicly available exploit is required to obtain administrator access.
 - [Priv Escalation](Priv_Escalation.md)
 - [Software Versions](Software_Versions.md)
 
-Go back to [Hack-The-Box_CTF](https://github.com/ChusLee/Hack-The-Box_CTF)
+Go back to [Hack-The-Box_CTF](https://github.com/jesuscuenca-cyber/Hack-The-Box_CTF)

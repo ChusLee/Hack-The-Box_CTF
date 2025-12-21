@@ -12,4 +12,4 @@ Writeup is an easy difficulty Linux box with DoS protection in place to prevent 
 - [Software Versions](Software_Versions.md)
 
 
-Go back to [Hack-The-Box_CTF](https://github.com/ChusLee/Hack-The-Box_CTF)
+Go back to [Hack-The-Box_CTF](https://github.com/jesuscuenca-cyber/Hack-The-Box_CTF)

@@ -12,4 +12,4 @@ Jerry is an easy-difficulty Windows machine that showcases how to exploit Apache
 - [Software Versions](Software_Versions.md)
 
 
-Go back to [Hack-The-Box_CTF](https://github.com/ChusLee/Hack-The-Box_CTF)
+Go back to [Hack-The-Box_CTF](https://github.com/jesuscuenca-cyber/Hack-The-Box_CTF)
