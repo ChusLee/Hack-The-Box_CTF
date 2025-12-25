@@ -14,7 +14,7 @@ Guest user can access the HR share. So we will use smbclient to view the share a
 ```bash
 $ smbclient //cicada.htb/HR
 ```
-![alt text](Images/SMBclinet.png)
+![alt text](Images/SMBclient.png)
 
 Using the dir command to list the contents, we see the file Notice from HR.txt, and we can download it to our machine with the get command. Viewing the file reveals a default password!
 ```bash
